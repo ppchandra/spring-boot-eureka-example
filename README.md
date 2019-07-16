@@ -1,10 +1,6 @@
 ### Spring Boot Eureka Demo
 
-Simple demo of service registration and discovery using Eureka.
-
-Initial work based on this guide:
-
-https://spring.io/guides/gs/service-registration-and-discovery/
+Service registration and discovery using Eureka.
 
 ### Try it out
 
